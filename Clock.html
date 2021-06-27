@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="viewport"
+		      content="width=device-width, initial-scale=1.0"/>
+		<title>Digital Clock</title>
+		<style>
+        body{
+           background-color:#151315;
+        }
+        #clock {
+          font-size: 50px;
+          color: #29d6c6;
+          font-family: courier new;
+          width: 900px;
+          text-align: center;
+           text-shadow:-1px 4px 9px #03a9f4;
+		           }
+
+         #clock:hover{
+           color:#ff00ff;
+		   }
+
+
+    
+</style>
+	</head>
+	<body>
+		<p>The current time on your computer is:
+    <br/>
+			<span id="clock"/>
+		</p>
+		<script>
+                function showTime() {
+                    var d=new Date();
+                        document.getElementById(&amp;amp;amp;quot;clock&amp;amp;amp;quot;).innerHTML = d.toLocaleTimeString();
+                }
+                setInterval(showTime, 1000);
+                showTime();
+    
+</script>
+	</body>
+</html>
