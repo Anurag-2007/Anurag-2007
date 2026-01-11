@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Anurag Anand Pandit, a CSE undergrad at IIIT Kalyani with a focus on Full Stack Development and UI/UX. Currently I am the Creative Lead at Google Developer Groups on campus IIIT Kalyani.<br>I work with Figma, Python, JavaScript, C, C++, HTML , CSS and JS and have built few AI/ML projects using Python and some web projects based on HTML and JS. I enjoy creating modern, high-performance, intuitive and user friendly tech experiences and constantly exploring new tools and technologies .<br>My portfolio : https://anurag-pandit-portfolio.vercel.app/
+I’m Anurag Anand Pandit, a CSE undergrad at IIIT Kalyani with a focus on Full Stack Development and UI/UX. Currently I am the Creative Lead at Google Developer Groups on campus IIIT Kalyani.<br>I work with Figma, Python, JavaScript, C, C++, HTML , CSS, JS and MERN stack and have built few AI/ML projects using Python and some web projects based too. I enjoy creating modern, high-performance, intuitive and user friendly tech experiences and constantly exploring new tools and technologies .<br>My portfolio : https://anurag-pandit-portfolio.vercel.app/
 
 
 ## 🌐 Socials:
