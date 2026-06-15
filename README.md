@@ -1,27 +1,180 @@
-# 💫 About Me:
-I’m Anurag Anand Pandit, a CSE undergrad at IIIT Kalyani with a focus on Full Stack Development and UI/UX. Currently I am the Creative Lead at Google Developer Groups on campus IIIT Kalyani.<br>I work with Figma, Python, JavaScript, C, C++, HTML , CSS, JS and MERN stack and have built few AI/ML projects using Python and some web projects based too. I enjoy creating modern, high-performance, intuitive and user friendly tech experiences and constantly exploring new tools and technologies .<br>My portfolio : https://anurag-pandit-portfolio.vercel.app/
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Anurag%20Anand%20Pandit&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20UI/UX%20Designer%20•%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anurag.devx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-pandit-19673736a/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/AnuragP911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panditanurag3101@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Creative+Lead+%40+GDG+On+Campus+IIIT+Kalyani;Building+Modern+Web+Experiences+with+MERN;Designing+Intuitive+UI%2FUX+with+Figma;Exploring+AI%2FML+Applications+with+Python;Always+Learning+Something+New+%F0%9F%9A%80" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anurag-2007&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anurag-2007&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-2007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anurag-2007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://www.linkedin.com/in/anurag-pandit-19673736a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<a href="mailto:panditanurag3101@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anurag-2007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://anurag-pandit-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Anurag-2007&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anurag-2007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+I'm **Anurag Anand Pandit**, a Computer Science undergraduate at **IIIT Kalyani** passionate about creating impactful digital experiences through development, design, and innovation.
+
+Currently serving as **Creative Lead at GDG On Campus IIIT Kalyani**, where I blend technology and creativity to build communities, design experiences, and organize impactful initiatives.
+
+### 🚀 What I Do
+
+* 🌐 Build scalable Full Stack applications using MERN
+* 🎨 Design clean and user-friendly interfaces in Figma
+* 🤖 Develop AI/ML projects using Python
+* 📱 Explore modern frontend technologies and UI systems
+* ☁️ Experiment with cloud deployment and developer tools
+* 🎯 Focus on performance, usability, and user experience
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+### Design & Creative
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white"/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
+</div>
+
+---
+
+# 🌟 Featured Highlights
+
+### 🎨 Creative Lead — GDG On Campus IIIT Kalyani
+
+Leading branding, visual identity, and creative initiatives for one of the most active student developer communities on campus.
+
+### 🌐 Full Stack Development
+
+Building responsive and scalable web applications using the MERN stack with a focus on modern UI and smooth user experiences.
+
+### 🤖 AI & Machine Learning
+
+Developing intelligent applications and experimenting with machine learning models, data analysis, and AI-powered solutions.
+
+### ✨ UI/UX Design
+
+Creating intuitive interfaces and user-centered experiences through wireframing, prototyping, and visual design.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag-2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Anurag-2007&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-2007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anurag-2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+| 🚀 Working On             | 📚 Learning                   |
+| ------------------------- | ----------------------------- |
+| Advanced MERN Projects    | System Design                 |
+| AI-Powered Applications   | Cloud Technologies            |
+| UI/UX Case Studies        | Scalable Backend Architecture |
+| Community Building at GDG | Performance Optimization      |
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-2007&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.instagram.com/anurag.devx/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anurag-pandit-19673736a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://anurag-pandit-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code.Create.Improve"
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=120&section=footer"/>
