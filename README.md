@@ -222,6 +222,14 @@ Love collaborating with developers, designers and creators while learning from t
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anurag-2007&theme=onestar&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 # 🎯 2026 Goals
 
 * 🚀 Build impactful Full Stack products
