@@ -2,11 +2,11 @@
 
 # Anurag Anand Pandit
 
-### Full Stack Developer • UI/UX Designer • AI Enthusiast
+### Full Stack Developer • UI/UX Designer • Creative Lead @ GDG IIIT Kalyani
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-22c55e?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/anurag-pandit-19673736a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Anurag-2007&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS"/>
 
@@ -32,26 +32,34 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Who Am I?
 
-I'm **Anurag Anand Pandit**, a Computer Science undergraduate at **IIIT Kalyani** passionate about building impactful digital products through development, design, and innovation.
+```yaml
+name: Anurag Anand Pandit
+role: Full Stack Developer & UI/UX Designer
+education: B.Tech CSE @ IIIT Kalyani
+community: Creative Lead @ GDG On Campus IIIT Kalyani
 
-Currently serving as **Creative Lead at GDG On Campus IIIT Kalyani**, where I work on branding, community initiatives, event experiences, and creative direction.
+interests:
+  - Full Stack Development
+  - Machine Learning
+  - System Design
+  - Computer Architecture
+  - React Native
+  - Competitive Programming
+  - Product Design
 
-I enjoy transforming ideas into polished products that combine functionality, performance, and great user experiences.
+currently_building:
+  - MERN Applications
+  - AI Powered Projects
+  - Modern UI Systems
+```
 
-### 🚀 What I Do
-
-* 🌐 Full Stack Development with MERN Stack
-* 🎨 UI/UX Design and Prototyping with Figma
-* 🤖 AI & Machine Learning Projects using Python
-* ☁️ Cloud Deployment and Modern Developer Tools
-* 📱 Responsive and User-Centric Web Applications
-* 🎯 Community Building and Creative Leadership
+I enjoy building products that sit at the intersection of **technology, design, and user experience**. Whether it's a full-stack web application, an AI-powered solution, or a clean user interface, I love transforming ideas into products people actually enjoy using.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -61,26 +69,33 @@ I enjoy transforming ideas into polished products that combine functionality, pe
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs"/>
 
-### Backend & Database
+### Mobile
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+
+React Native • Expo
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 ### AI / ML
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+Pandas • NumPy • Scikit-Learn • Matplotlib
 
 ### Design
 
 <img src="https://skillicons.dev/icons?i=figma"/>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white"/>
+Canva • Framer
 
 ### Tools
 
@@ -90,27 +105,98 @@ I enjoy transforming ideas into polished products that combine functionality, pe
 
 ---
 
-## 🌟 Highlights
+# 🧠 Currently Exploring
 
-### 🎨 Creative Lead @ GDG On Campus IIIT Kalyani
+<table>
+<tr>
+<td width="50%">
 
-Leading creative initiatives, event branding, visual identity, and community engagement activities for one of the most active developer communities on campus.
+### 🤖 Machine Learning
 
-### 🌐 Full Stack Development
+* Model Training & Evaluation
+* Feature Engineering
+* Deep Learning Fundamentals
+* AI-Powered Applications
+* Data Analysis Workflows
 
-Building modern web applications with scalable architectures, responsive interfaces, and intuitive user experiences using the MERN ecosystem.
+</td>
 
-### 🤖 AI & Machine Learning
+<td width="50%">
 
-Creating intelligent applications and experimenting with machine learning models, data analysis workflows, and AI-powered solutions.
+### ⚙️ Computer Architecture
 
-### ✨ UI/UX Design
+* Memory Hierarchy
+* Cache Optimization
+* CPU Design Fundamentals
+* Instruction Pipelines
+* Performance Analysis
 
-Designing clean, accessible, and engaging interfaces focused on usability and user satisfaction.
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ System Design
+
+* Scalable Architectures
+* Distributed Systems Basics
+* API Design
+* Database Optimization
+* Backend Scalability
+
+</td>
+
+<td width="50%">
+
+### 📱 React Native
+
+* Cross Platform Apps
+* Native Integrations
+* State Management
+* Performance Optimization
+* Mobile UI Design
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Developer Interests
+
+```text
+Competitive Programming
+Data Structures & Algorithms
+Object Oriented Programming
+System Design
+Computer Networks
+Operating Systems
+Database Management Systems
+Computer Architecture
+Machine Learning
+Open Source
+```
+
+---
+
+# 🌟 Beyond Coding
+
+### 🎨 Creative Lead @ GDG On Campus IIIT Kalyani
+
+Leading design, branding, event creatives and community engagement initiatives.
+
+### 🚀 Builder Mindset
+
+Passionate about turning ideas into products through rapid prototyping, development and iteration.
+
+### 🤝 Community Driven
+
+Love collaborating with developers, designers and creators while learning from the tech community.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -120,55 +206,49 @@ Designing clean, accessible, and engaging interfaces focused on usability and us
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Anurag-2007&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Anurag-2007&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anurag-2007&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-2007&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 🎯 2026 Goals
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-2007&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-```text
-🚀 Building scalable MERN applications
-🎨 Improving UI/UX design workflows
-🤖 Exploring AI-powered web solutions
-☁️ Learning cloud technologies
-🌱 Growing developer communities through GDG
-```
+* 🚀 Build impactful Full Stack products
+* 📱 Launch React Native applications
+* 🤖 Deepen Machine Learning expertise
+* ⚙️ Strengthen Computer Architecture fundamentals
+* 🏗️ Master System Design concepts
+* 🏆 Become stronger at Competitive Programming
+* 🌱 Contribute more to Open Source
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anurag-pandit-19673736a/">
-<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<br><br>
+<a href="mailto:panditanurag3101@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<a href="https://anurag-pandit-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+</a>
 
 </div>
 
@@ -176,8 +256,10 @@ Designing clean, accessible, and engaging interfaces focused on usability and us
 
 <div align="center">
 
-### 🟢 Code.Create.Improve
+### 🟢 Code • Create • Improve
 
-<img src="https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=for-the-badge"/>
+Building products, learning continuously, and enjoying the journey.
+
+<img src="https://img.shields.io/badge/Open_To-Collaborate-22c55e?style=for-the-badge"/>
 
 </div>
