@@ -176,7 +176,7 @@ Designing clean, accessible, and engaging interfaces focused on usability and us
 
 <div align="center">
 
-### 🟢 Always Learning • Always Building
+### 🟢 Code.Create.Improve
 
 <img src="https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=for-the-badge"/>
 
