@@ -181,6 +181,9 @@ Open Source
 ---
 
 # 🌟 Beyond Coding
+### 🧑‍💻 Core Team Member @ CodeCubes- competitive programming club : IIIT Kalyani
+
+Core team member of the institute’s competitive programming club, contributing to coding contests, problem-solving sessions, and peer learning initiatives.
 
 ### 🎨 Creative Lead @ GDG On Campus IIIT Kalyani
 
