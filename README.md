@@ -2,7 +2,7 @@
 
 # Anurag Anand Pandit
 
-### Full Stack Developer • UI/UX Designer • Creative Lead @ GDG IIIT Kalyani
+### Full Stack Developer • UI/UX Designer • Organiser @ GDG IIIT Kalyani
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-22c55e?style=for-the-badge"/>
 
